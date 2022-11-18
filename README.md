@@ -10,9 +10,11 @@ With the switch on top of the cartridge it is possible to select which rom to us
 Amstrad uses a protection system for these cartridges, you can use the original chip **acid** (taken from another cartridge) or a 74HC112N flip-flop.
 
 PCB:
+
 ![alt text](https://github.com/zeus074/Amstrad_Multicart/blob/main/IMG/multicart_pcb.jpg)
 
 Prototipe:
+
 ![alt text](https://github.com/zeus074/Amstrad_Multicart/blob/main/IMG/multicart_proto.jpg)
 
 :coffee: if you want the PCB, please support me and follow this link : <a href="https://www.pcbway.com/project/shareproject/Dram_tester_for_4116_4164_256_and_4532_d6b7143c.html" target="_NEW">PCBWAY!</a>
@@ -20,7 +22,8 @@ Prototipe:
 
 You can find the video of this project on the Retrofixer channel: link
 
-Please consider subscribing to the channel, it's free and helps us to improve and always offer you new videos and gadgests!
+Please consider subscribing to the channel, it's free and helps us to improve and always offer you new videos and more!
+
 
 **Components:**
 
@@ -38,9 +41,10 @@ SW1: Dip-switch (3pin)
 
 SW2: Slide switch 2 position (DPDT)
 
-*Resistors r4 or r5 may not be fitted if the respective inputs A17 or A18 are used they are not managed by the dipswitch
+*Resistors r4 or r5 can not be mounted if the respective inputs A17 or A18 are used they are not managed by the dipswitch
 
-**Realization:
+
+**Realization:**
 
 the gx4000 has a system to prevent the insertion of the cartridge with the console on and removal, it is necessary that the flaps of the slot are all open otherwise the switch remains blocked. 
 
