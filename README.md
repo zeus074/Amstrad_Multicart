@@ -41,7 +41,7 @@ SW1: Dip-switch (3pin)
 
 SW2: Slide switch 2 position (DPDT)
 
-*Resistors r4 or r5 can not be mounted if the respective inputs A17 or A18 are used they are not managed by the dipswitch
+*Resistors r4 or r5 can not be mounted if the respective inputs A17 or A18 are used by the console and not managed by the dipswitch
 
 
 **Realization:**
@@ -57,6 +57,28 @@ If they are to be used for 128k games, they must be set to SW, so 8 games can be
 If you use larger roms these can be managed by the console by making the jumper between the central pin and the relative input.
 
 This change (JP17,JP18) affects both roms.
+
+You can find schemnatic and BOM in the relative folders and a sample sticker for the enclosure in the IMG folder.
+
+**Final cartridge:**
+
+![alt text](https://github.com/zeus074/Amstrad_Multicart/blob/main/IMG/cart-gx4000.jpg)
+
+Ofcourse! This case is in the 3D_Print folder.
+
+Subscribe to my channel Retrofixer https://www.youtube.com/@retrofixer to keep us going in this work.
+
+You can print ready-made pcb on PCBWAY! https://www.pcbway.com/project/shareproject/Amstrad_GX4000_multicart_or_CPC464_PULS_3cb5d5b8.html
+
+**Low price for a great cart!:**
+Costs for the realization: (shipping not included and prices taken at the time of production and may no longer be true)
+2x27C801 =€4.43 (Aliexpress)
+
+6xResistor=€0,72 (Mouser)
+
+4xCapacitor=€1.08 (Mouser)
+
+1x74HC112N=€0,73 (Mouser)
 
 
 Enjoy!

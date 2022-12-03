@@ -1,0 +1,22 @@
+Part          	Value          	Device			Package      	Description
+(use one of these two chips)
+74HC112N      	74HC112N		74HC112N       		DIL16        	Dual J-K negative edge triggered FLIP FLOP, preset and clear 
+AMSTRAD_40908                  	DIL16S          	DIL16		    	Custom ACID chip from Amstrad
+
+C1            	100n            C-EU050-024X044   	C050-024X044 	CAPACITOR, European symbol                      
+C2            	100n            C-EU050-024X044   	C050-024X044 	CAPACITOR, European symbol                   
+C3            	100n            C-EU050-024X044   	C050-024X044 	CAPACITOR, European symbol                    
+C4            	100n            C-EU050-024X044   	C050-024X044 	CAPACITOR, European symbol                 
+EEPROM        	27C080          DIL32             	DIL32        	Dual In Line                                                                       
+EEPROM1       	27c080          DIL32             	DIL32        	Dual In Line                                                                       
+JP17          	0R-JUMPA        0R-JUMPA          	A0R-JMP      	SMD 0R 0805 Jumper                           
+JP18          	0R-JUMPA        0R-JUMPA          	A0R-JMP      	SMD 0R 0805 Jumper                                 
+R1            	4k7             R-EU_0204/7       	0204/7       	RESISTOR, European symbol                                                          
+R2            	4k7             R-EU_0204/7       	0204/7       	RESISTOR, European symbol                                                          
+R3            	4k7             R-EU_0204/7       	0204/7       	RESISTOR, European symbol                                                          
+R4            	4k7             R-EU_0204/7       	0204/7       	RESISTOR, European symbol                                                          
+R5            	4k7             R-EU_0204/7       	0204/7       	RESISTOR, European symbol                                                          
+R6            	10k             R-EU_0204/7       	0204/7       	RESISTOR, European symbol                                                          
+SW1                           	SW_DIP-3          	EDG-03       	DIP SWITCH                         
+U$1           	SLIDESWITCH 	DPDT 2P2T		
+                                                                                
