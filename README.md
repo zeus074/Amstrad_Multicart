@@ -1,4 +1,4 @@
-# AMSTRAD GX4000 / PCPC464+ MULDICART
+# AMSTRAD GX4000 / CPC464+ MULTICART
 16 IN 1
 
 This cartridge allows programs to run on the Amstrad GX4000 or CPC464+ computer
